@@ -23,7 +23,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBResources",
             url: "None",
-            checksum: "36bb85b03b74b8e851f48fdec3825c29505329e09bf11acd9828364b26d1b3c1"
+            checksum: "541618abf199d9887de3124ee5e67750be232fb371b1ae1960ec5bcc57cbee0f"
         ),
     ]
 )
